@@ -1,0 +1,676 @@
+<?xml version='1.0'?> 
+<lbstream>
+
+<parcelid>
+<id>672-06-054</id>
+
+
+<source>
+<sourcename>ACROSSSOURCE</sourcename>
+
+<record>
+<PARCEL>
+<description>PARCEL</description>
+<update_date>01/01/2000</update_date>
+<value>672-06-054</value>
+</PARCEL>
+<NEIGHBOR10>
+<description>NEIGHBOR10</description>
+<update_date>01/01/2000</update_date>
+<value>East Cleveland</value>
+</NEIGHBOR10>
+<landmark_dis>
+<description>NAME</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</landmark_dis>
+<hist_hrhp>
+<description>Resource_n</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</hist_hrhp>
+<hist_hr>
+<description>DISTRICTNA</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</hist_hr>
+<chp_eligible>
+<description>chp_eligible</description>
+<update_date>01/01/2000</update_date>
+<value>1.000000000000000</value>
+</chp_eligible>
+<opp_zone>
+<description>Opp Zone</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</opp_zone>
+<number>
+<description>NUMBER</description>
+<update_date>01/01/2000</update_date>
+<value>1637</value>
+</number>
+<street>
+<description>STREET</description>
+<update_date>01/01/2000</update_date>
+<value>ELBERON AVE</value>
+</street>
+<tract>
+<description>Tract</description>
+<update_date>01/01/2000</update_date>
+<value>1518.00</value>
+</tract>
+<mcdnme>
+<description>Township (MCD)</description>
+<update_date>01/01/2000</update_date>
+<value>East Cleveland city</value>
+</mcdnme>
+<neighbor>
+<description>Neighborhood</description>
+<update_date>01/01/2000</update_date>
+<value>East Cleveland</value>
+</neighbor>
+<chp_ta>
+<description>CHP Target</description>
+<update_date>01/01/2000</update_date>
+<value>Circle-Northeast</value>
+</chp_ta>
+<zip>
+<description>Census zip code tabulation area</description>
+<update_date>01/01/2000</update_date>
+<value>44112</value>
+</zip>
+<ward>
+<description>Ward</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</ward>
+<cntydis>
+<description>Cuyahoga County District</description>
+<update_date>01/01/2000</update_date>
+<value>10</value>
+</cntydis>
+<towner>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>CUYAHOGA COUNTY LAND REUTILIZATION CORPORATION</value>
+</towner>
+<ward2014>
+<description>ward2014</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</ward2014>
+<LATITUDE>
+<description>LATITUDE</description>
+<update_date>01/01/2000</update_date>
+<value>41.521782</value>
+</LATITUDE>
+<LONGITUDE>
+<description>LONGITUDE</description>
+<update_date>01/01/2000</update_date>
+<value>-81.596797</value>
+</LONGITUDE>
+<nsp2>
+<description>NSP2 Area</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</nsp2>
+<cuyregion>
+<description>Sub County</description>
+<update_date>01/01/2000</update_date>
+<value>East Inner Suburb</value>
+</cuyregion>
+<SHAPE_AREA>
+<description>SHAPE_AREA</description>
+<update_date>01/01/2000</update_date>
+<value>4343</value>
+</SHAPE_AREA>
+<vacantlot_type>
+<description>VACANCY</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</vacantlot_type>
+<NBH_CODE>
+<description>NBH_CODE</description>
+<update_date>01/01/2000</update_date>
+<value>01203</value>
+</NBH_CODE>
+<SCH_DIST>
+<description>SCH_DIST</description>
+<update_date>01/01/2000</update_date>
+<value>EAST CLEVELAND CSD</value>
+</SCH_DIST>
+<shape_acres>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</shape_acres>
+<opsii>
+<description>TARGET</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</opsii>
+<pclass>
+<description>Property class</description>
+<update_date>01/01/2000</update_date>
+<value>Land bank</value>
+</pclass>
+<luc>
+<description>Land use code description</description>
+<update_date>01/01/2000</update_date>
+<value>Land bank</value>
+</luc>
+<propsize>
+<description>Property size (sq ft): parcel record</description>
+<update_date>01/01/2000</update_date>
+<value>4,360</value>
+</propsize>
+<front>
+<description>Frontage parcel (in feet)</description>
+<update_date>01/01/2000</update_date>
+<value>40</value>
+</front>
+<depth>
+<description>Depth of parcel (in feet)</description>
+<update_date>01/01/2000</update_date>
+<value>109</value>
+</depth>
+<lotshape>
+<description>Lot Shape</description>
+<update_date>01/01/2000</update_date>
+<value>Rectangular</value>
+</lotshape>
+<totbldgs>
+<description>Number of buildings on property</description>
+<update_date>01/01/2000</update_date>
+<value>1</value>
+</totbldgs>
+<totusabl>
+<description>Total usable area in square feet</description>
+<update_date>01/01/2000</update_date>
+<value>1,668</value>
+</totusabl>
+<yrbuilt>
+<description>Year built</description>
+<update_date>01/01/2000</update_date>
+<value>1905</value>
+</yrbuilt>
+<units>
+<description>Number of units</description>
+<update_date>01/01/2000</update_date>
+<value>1</value>
+</units>
+<demodate>
+<description>demodate</description>
+<update_date>01/01/2000</update_date>
+<value>.</value>
+</demodate>
+<DESCRIPTION>
+<description>DESCRIPTION</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</DESCRIPTION>
+<democost>
+<description>COST</description>
+<update_date>01/01/2000</update_date>
+<value>.</value>
+</democost>
+<demo>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</demo>
+<demo_status>
+<description>demo_status</description>
+<update_date>01/01/2000</update_date>
+<value>Demo - Complete</value>
+</demo_status>
+<CLASSIFICATION_DESCR>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>COUNTY LAND BANK</value>
+</CLASSIFICATION_DESCR>
+<MAILNAME>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>CUYAHOGA COUNTY LAND REUTILIZATION CORPORATION</value>
+</MAILNAME>
+<MAIL_STREET_NUMBER>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>812</value>
+</MAIL_STREET_NUMBER>
+<MAIL_STREET_DIRECTION>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</MAIL_STREET_DIRECTION>
+<MAIL_STREET_NAME>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>HURON</value>
+</MAIL_STREET_NAME>
+<MAIL_STREET_SUFFIX>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>RD</value>
+</MAIL_STREET_SUFFIX>
+<MAIL_CITY>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>CLEVELAND</value>
+</MAIL_CITY>
+<MAIL_STATE>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>OH</value>
+</MAIL_STATE>
+<MAIL_ZIPCODE>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>44115</value>
+</MAIL_ZIPCODE>
+<TAX_MARKET_LAND>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>$0</value>
+</TAX_MARKET_LAND>
+<TAX_MARKET_IMPROVEMENT>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>$0</value>
+</TAX_MARKET_IMPROVEMENT>
+<TAX_MARKET_TOTAL>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>$0</value>
+</TAX_MARKET_TOTAL>
+<razenote>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</razenote>
+<award_date>
+<description>AWARD_DT</description>
+<update_date>01/01/2000</update_date>
+<value>.</value>
+</award_date>
+<raze_date>
+<description>RAZE_DT</description>
+<update_date>01/01/2000</update_date>
+<value>.</value>
+</raze_date>
+<democontract>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</democontract>
+<demo_per_filedate>
+<description>FileDate</description>
+<update_date>01/01/2000</update_date>
+<value>.</value>
+</demo_per_filedate>
+<demo_permit_field>
+<description>Demolition</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</demo_permit_field>
+<demo_per_id>
+<description>AlternativeTrackingID</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</demo_per_id>
+<demo_per_appstatusdt>
+<description>AppStatusDate</description>
+<update_date>01/01/2000</update_date>
+<value>.</value>
+</demo_per_appstatusdt>
+<demo_per_appstatus>
+<description>AppStatus</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</demo_per_appstatus>
+<demo_permit_inspector>
+<description>ActionBy</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</demo_permit_inspector>
+<demopermit>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</demopermit>
+<sub_focus>
+<description>Suburban Focus Areas</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</sub_focus>
+<lead_placard>
+<description>Lead Placard</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</lead_placard>
+<nti>
+<description>nti</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</nti>
+<ED_TARGET>
+<description>ED_TARGET</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</ED_TARGET>
+<design_review>
+<description>NAME</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</design_review>
+<nsp3sub>
+<description>nsp3sub</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</nsp3sub>
+<nsp3subdemo>
+<description>nsp3subdemo</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</nsp3subdemo>
+<citynsp3>
+<description>citynsp3</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</citynsp3>
+<propstat>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>Fore - Awaiting Judgment</value>
+</propstat>
+<tract10>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>1518.00</value>
+</tract10>
+</record>
+
+</source>
+
+
+<source>
+<sourcename>RES1</sourcename>
+
+<record>
+<pcnt>
+<description></description>
+<update_date>01/01/2000</update_date>
+<value>1</value>
+</pcnt>
+<ppn>
+<description>PPN</description>
+<update_date>01/01/2000</update_date>
+<value>67206054</value>
+</ppn>
+<air>
+<description>Type of air conditioning</description>
+<update_date>01/01/2000</update_date>
+<value>None</value>
+</air>
+<attic>
+<description>Type of attic</description>
+<update_date>01/01/2000</update_date>
+<value>Unfinished</value>
+</attic>
+<condtion>
+<description>Condition</description>
+<update_date>01/01/2000</update_date>
+<value>Very good</value>
+</condtion>
+<cqual>
+<description>Construction quality</description>
+<update_date>01/01/2000</update_date>
+<value>Average+</value>
+</cqual>
+<rextwall>
+<description>Exterior walls</description>
+<update_date>01/01/2000</update_date>
+<value>Aluminum/Vinyl (r)</value>
+</rextwall>
+<heat>
+<description>Type of heat</description>
+<update_date>01/01/2000</update_date>
+<value>Forced air</value>
+</heat>
+<incomeflag>
+<description>Income flag</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</incomeflag>
+<partywal>
+<description>Is there a party wall?</description>
+<update_date>01/01/2000</update_date>
+<value></value>
+</partywal>
+<reinsp>
+<description>Need to reinspect?</description>
+<update_date>01/01/2000</update_date>
+<value>No</value>
+</reinsp>
+<resupdatedt>
+<description>Resid bldg update date</description>
+<update_date>01/01/2000</update_date>
+<value>12/29/2005</value>
+</resupdatedt>
+<roofmat>
+<description>Roof material</description>
+<update_date>01/01/2000</update_date>
+<value>Slate</value>
+</roofmat>
+<rrooftyp>
+<description>Type of roof</description>
+<update_date>01/01/2000</update_date>
+<value>Gable</value>
+</rrooftyp>
+<updatedt>
+<description>Update date</description>
+<update_date>01/01/2000</update_date>
+<value>01/10/2011</value>
+</updatedt>
+<occup>
+<description>Occupancy</description>
+<update_date>01/01/2000</update_date>
+<value>1 family</value>
+</occup>
+<ryrbuilt>
+<description>Year built</description>
+<update_date>01/01/2000</update_date>
+<value>1905</value>
+</ryrbuilt>
+<bfinsqft>
+<description>Basement finished sq ft</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</bfinsqft>
+<basesqft>
+<description>Basement sq ft</description>
+<update_date>01/01/2000</update_date>
+<value>796</value>
+</basesqft>
+<rbasetyp>
+<description>Type of basement</description>
+<update_date>01/01/2000</update_date>
+<value>Basement</value>
+</rbasetyp>
+<baths>
+<description>Number of bathrooms</description>
+<update_date>01/01/2000</update_date>
+<value>1</value>
+</baths>
+<bedrooms>
+<description>Number of bedrooms</description>
+<update_date>01/01/2000</update_date>
+<value>4</value>
+</bedrooms>
+<bldgrecnum>
+<description>Building record #</description>
+<update_date>01/01/2000</update_date>
+<value>1</value>
+</bldgrecnum>
+<ecopctgood>
+<description>Eco pct good</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</ecopctgood>
+<eyrbuilt>
+<description>Effective year built</description>
+<update_date>01/01/2000</update_date>
+<value>1970</value>
+</eyrbuilt>
+<flrloc>
+<description>Floor location</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</flrloc>
+<funpctgood>
+<description>Fun pct good</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</funpctgood>
+<yrgarblt>
+<description>Year garage was built</description>
+<update_date>01/01/2000</update_date>
+<value>1905</value>
+</yrgarblt>
+<garcap>
+<description>Garage capacity</description>
+<update_date>01/01/2000</update_date>
+<value>2</value>
+</garcap>
+<garsize>
+<description>Size of garage (sq ft)</description>
+<update_date>01/01/2000</update_date>
+<value>360</value>
+</garsize>
+<gartype>
+<description>Type of garage</description>
+<update_date>01/01/2000</update_date>
+<value>Detached</value>
+</gartype>
+<halfbath>
+<description>Number of half bathrooms</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</halfbath>
+<linkid>
+<description>Link id</description>
+<update_date>01/01/2000</update_date>
+<value>7215015</value>
+</linkid>
+<liva1st>
+<description>Living area on first floor (sq ft)</description>
+<update_date>01/01/2000</update_date>
+<value>812</value>
+</liva1st>
+<liva2nd>
+<description>Living area on second floor (sq ft)</description>
+<update_date>01/01/2000</update_date>
+<value>856</value>
+</liva2nd>
+<livabase>
+<description>Living area basement (finshd sq ft)</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</livabase>
+<livatot>
+<description>Total living area</description>
+<update_date>01/01/2000</update_date>
+<value>1668</value>
+</livatot>
+<livaupp>
+<description>Living area on upper floor (sq ft)</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</livaupp>
+<override>
+<description>Override value</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</override>
+<pctcompl>
+<description>Percent complete</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</pctcompl>
+<phypctgood>
+<description>Physical pct good</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</phypctgood>
+<plumbfix>
+<description>Number of plumbing fixtures</description>
+<update_date>01/01/2000</update_date>
+<value>5</value>
+</plumbfix>
+<rcn>
+<description>RCN</description>
+<update_date>01/01/2000</update_date>
+<value>155264</value>
+</rcn>
+<rcnld>
+<description>RCNLD</description>
+<update_date>01/01/2000</update_date>
+<value>77632</value>
+</rcnld>
+<resbldgid>
+<description>Resid bldg id</description>
+<update_date>01/01/2000</update_date>
+<value>0</value>
+</resbldgid>
+<rooms>
+<description>Number of rooms</description>
+<update_date>01/01/2000</update_date>
+<value>7</value>
+</rooms>
+<rnumstor>
+<description>Number of stories</description>
+<update_date>01/01/2000</update_date>
+<value>2</value>
+</rnumstor>
+<style>
+<description>Style</description>
+<update_date>01/01/2000</update_date>
+<value>Colonial</value>
+</style>
+<whsid>
+<description>WHS id</description>
+<update_date>01/01/2000</update_date>
+<value>4706386</value>
+</whsid>
+<downloaddt>
+<description>Download date</description>
+<update_date>01/01/2000</update_date>
+<value>01/19/2011</value>
+</downloaddt>
+<parcel>
+<description>Parcel</description>
+<update_date>01/01/2000</update_date>
+<value>672-06-054</value>
+</parcel>
+</record>
+
+</source>
+
+
+<source>
+<sourcename>RES2</sourcename>
+
+
+</source>
+
+
+<source>
+<sourcename>RES3</sourcename>
+
+
+</source>
+
+</parcelid>
+
+</lbstream>

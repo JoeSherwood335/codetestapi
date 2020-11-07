@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kd3/P5amoG4abB1sU5jd+0Rt8QLBtY3fpxGewUkXDwXmZ3o0WN848hHtfJVWQmmk4AXq61+2dabzpV92dEXIIA==",
+  "success": true,
+  "projectFilePath": "/home/joe/Projects/codetestapi/src/codetestapi.csproj",
+  "expectedPackageFiles": [
+    "/home/joe/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

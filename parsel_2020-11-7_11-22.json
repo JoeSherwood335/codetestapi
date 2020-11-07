@@ -1,0 +1,658 @@
+{
+  "parcelid": {
+    "id": "672-06-054",
+    "source": [
+      {
+        "sourcename": "ACROSSSOURCE",
+        "record": {
+          "PARCEL": {
+            "description": "PARCEL",
+            "update_date": "01/01/2000",
+            "value": "672-06-054"
+          },
+          "NEIGHBOR10": {
+            "description": "NEIGHBOR10",
+            "update_date": "01/01/2000",
+            "value": "East Cleveland"
+          },
+          "landmark_dis": {
+            "description": "NAME",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "hist_hrhp": {
+            "description": "Resource_n",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "hist_hr": {
+            "description": "DISTRICTNA",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "chp_eligible": {
+            "description": "chp_eligible",
+            "update_date": "01/01/2000",
+            "value": "1.000000000000000"
+          },
+          "opp_zone": {
+            "description": "Opp Zone",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "number": {
+            "description": "NUMBER",
+            "update_date": "01/01/2000",
+            "value": "1637"
+          },
+          "street": {
+            "description": "STREET",
+            "update_date": "01/01/2000",
+            "value": "ELBERON AVE"
+          },
+          "tract": {
+            "description": "Tract",
+            "update_date": "01/01/2000",
+            "value": "1518.00"
+          },
+          "mcdnme": {
+            "description": "Township (MCD)",
+            "update_date": "01/01/2000",
+            "value": "East Cleveland city"
+          },
+          "neighbor": {
+            "description": "Neighborhood",
+            "update_date": "01/01/2000",
+            "value": "East Cleveland"
+          },
+          "chp_ta": {
+            "description": "CHP Target",
+            "update_date": "01/01/2000",
+            "value": "Circle-Northeast"
+          },
+          "zip": {
+            "description": "Census zip code tabulation area",
+            "update_date": "01/01/2000",
+            "value": "44112"
+          },
+          "ward": {
+            "description": "Ward",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "cntydis": {
+            "description": "Cuyahoga County District",
+            "update_date": "01/01/2000",
+            "value": "10"
+          },
+          "towner": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "CUYAHOGA COUNTY LAND REUTILIZATION CORPORATION"
+          },
+          "ward2014": {
+            "description": "ward2014",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "LATITUDE": {
+            "description": "LATITUDE",
+            "update_date": "01/01/2000",
+            "value": "41.521782"
+          },
+          "LONGITUDE": {
+            "description": "LONGITUDE",
+            "update_date": "01/01/2000",
+            "value": "-81.596797"
+          },
+          "nsp2": {
+            "description": "NSP2 Area",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "cuyregion": {
+            "description": "Sub County",
+            "update_date": "01/01/2000",
+            "value": "East Inner Suburb"
+          },
+          "SHAPE_AREA": {
+            "description": "SHAPE_AREA",
+            "update_date": "01/01/2000",
+            "value": "4343"
+          },
+          "vacantlot_type": {
+            "description": "VACANCY",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "NBH_CODE": {
+            "description": "NBH_CODE",
+            "update_date": "01/01/2000",
+            "value": "01203"
+          },
+          "SCH_DIST": {
+            "description": "SCH_DIST",
+            "update_date": "01/01/2000",
+            "value": "EAST CLEVELAND CSD"
+          },
+          "shape_acres": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "opsii": {
+            "description": "TARGET",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "pclass": {
+            "description": "Property class",
+            "update_date": "01/01/2000",
+            "value": "Land bank"
+          },
+          "luc": {
+            "description": "Land use code description",
+            "update_date": "01/01/2000",
+            "value": "Land bank"
+          },
+          "propsize": {
+            "description": "Property size (sq ft): parcel record",
+            "update_date": "01/01/2000",
+            "value": "4,360"
+          },
+          "front": {
+            "description": "Frontage parcel (in feet)",
+            "update_date": "01/01/2000",
+            "value": "40"
+          },
+          "depth": {
+            "description": "Depth of parcel (in feet)",
+            "update_date": "01/01/2000",
+            "value": "109"
+          },
+          "lotshape": {
+            "description": "Lot Shape",
+            "update_date": "01/01/2000",
+            "value": "Rectangular"
+          },
+          "totbldgs": {
+            "description": "Number of buildings on property",
+            "update_date": "01/01/2000",
+            "value": "1"
+          },
+          "totusabl": {
+            "description": "Total usable area in square feet",
+            "update_date": "01/01/2000",
+            "value": "1,668"
+          },
+          "yrbuilt": {
+            "description": "Year built",
+            "update_date": "01/01/2000",
+            "value": "1905"
+          },
+          "units": {
+            "description": "Number of units",
+            "update_date": "01/01/2000",
+            "value": "1"
+          },
+          "demodate": {
+            "description": "demodate",
+            "update_date": "01/01/2000",
+            "value": "."
+          },
+          "DESCRIPTION": {
+            "description": "DESCRIPTION",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "democost": {
+            "description": "COST",
+            "update_date": "01/01/2000",
+            "value": "."
+          },
+          "demo": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "demo_status": {
+            "description": "demo_status",
+            "update_date": "01/01/2000",
+            "value": "Demo - Complete"
+          },
+          "CLASSIFICATION_DESCR": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "COUNTY LAND BANK"
+          },
+          "MAILNAME": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "CUYAHOGA COUNTY LAND REUTILIZATION CORPORATION"
+          },
+          "MAIL_STREET_NUMBER": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "812"
+          },
+          "MAIL_STREET_DIRECTION": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "MAIL_STREET_NAME": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "HURON"
+          },
+          "MAIL_STREET_SUFFIX": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "RD"
+          },
+          "MAIL_CITY": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "CLEVELAND"
+          },
+          "MAIL_STATE": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "OH"
+          },
+          "MAIL_ZIPCODE": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "44115"
+          },
+          "TAX_MARKET_LAND": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "$0"
+          },
+          "TAX_MARKET_IMPROVEMENT": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "$0"
+          },
+          "TAX_MARKET_TOTAL": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "$0"
+          },
+          "razenote": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "award_date": {
+            "description": "AWARD_DT",
+            "update_date": "01/01/2000",
+            "value": "."
+          },
+          "raze_date": {
+            "description": "RAZE_DT",
+            "update_date": "01/01/2000",
+            "value": "."
+          },
+          "democontract": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "demo_per_filedate": {
+            "description": "FileDate",
+            "update_date": "01/01/2000",
+            "value": "."
+          },
+          "demo_permit_field": {
+            "description": "Demolition",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "demo_per_id": {
+            "description": "AlternativeTrackingID",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "demo_per_appstatusdt": {
+            "description": "AppStatusDate",
+            "update_date": "01/01/2000",
+            "value": "."
+          },
+          "demo_per_appstatus": {
+            "description": "AppStatus",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "demo_permit_inspector": {
+            "description": "ActionBy",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "demopermit": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "sub_focus": {
+            "description": "Suburban Focus Areas",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "lead_placard": {
+            "description": "Lead Placard",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "nti": {
+            "description": "nti",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "ED_TARGET": {
+            "description": "ED_TARGET",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "design_review": {
+            "description": "NAME",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "nsp3sub": {
+            "description": "nsp3sub",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "nsp3subdemo": {
+            "description": "nsp3subdemo",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "citynsp3": {
+            "description": "citynsp3",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "propstat": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "Fore - Awaiting Judgment"
+          },
+          "tract10": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "1518.00"
+          }
+        }
+      },
+      {
+        "sourcename": "RES1",
+        "record": {
+          "pcnt": {
+            "description": "",
+            "update_date": "01/01/2000",
+            "value": "1"
+          },
+          "ppn": {
+            "description": "PPN",
+            "update_date": "01/01/2000",
+            "value": "67206054"
+          },
+          "air": {
+            "description": "Type of air conditioning",
+            "update_date": "01/01/2000",
+            "value": "None"
+          },
+          "attic": {
+            "description": "Type of attic",
+            "update_date": "01/01/2000",
+            "value": "Unfinished"
+          },
+          "condtion": {
+            "description": "Condition",
+            "update_date": "01/01/2000",
+            "value": "Very good"
+          },
+          "cqual": {
+            "description": "Construction quality",
+            "update_date": "01/01/2000",
+            "value": "Average+"
+          },
+          "rextwall": {
+            "description": "Exterior walls",
+            "update_date": "01/01/2000",
+            "value": "Aluminum/Vinyl (r)"
+          },
+          "heat": {
+            "description": "Type of heat",
+            "update_date": "01/01/2000",
+            "value": "Forced air"
+          },
+          "incomeflag": {
+            "description": "Income flag",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "partywal": {
+            "description": "Is there a party wall?",
+            "update_date": "01/01/2000",
+            "value": ""
+          },
+          "reinsp": {
+            "description": "Need to reinspect?",
+            "update_date": "01/01/2000",
+            "value": "No"
+          },
+          "resupdatedt": {
+            "description": "Resid bldg update date",
+            "update_date": "01/01/2000",
+            "value": "12/29/2005"
+          },
+          "roofmat": {
+            "description": "Roof material",
+            "update_date": "01/01/2000",
+            "value": "Slate"
+          },
+          "rrooftyp": {
+            "description": "Type of roof",
+            "update_date": "01/01/2000",
+            "value": "Gable"
+          },
+          "updatedt": {
+            "description": "Update date",
+            "update_date": "01/01/2000",
+            "value": "01/10/2011"
+          },
+          "occup": {
+            "description": "Occupancy",
+            "update_date": "01/01/2000",
+            "value": "1 family"
+          },
+          "ryrbuilt": {
+            "description": "Year built",
+            "update_date": "01/01/2000",
+            "value": "1905"
+          },
+          "bfinsqft": {
+            "description": "Basement finished sq ft",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "basesqft": {
+            "description": "Basement sq ft",
+            "update_date": "01/01/2000",
+            "value": "796"
+          },
+          "rbasetyp": {
+            "description": "Type of basement",
+            "update_date": "01/01/2000",
+            "value": "Basement"
+          },
+          "baths": {
+            "description": "Number of bathrooms",
+            "update_date": "01/01/2000",
+            "value": "1"
+          },
+          "bedrooms": {
+            "description": "Number of bedrooms",
+            "update_date": "01/01/2000",
+            "value": "4"
+          },
+          "bldgrecnum": {
+            "description": "Building record #",
+            "update_date": "01/01/2000",
+            "value": "1"
+          },
+          "ecopctgood": {
+            "description": "Eco pct good",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "eyrbuilt": {
+            "description": "Effective year built",
+            "update_date": "01/01/2000",
+            "value": "1970"
+          },
+          "flrloc": {
+            "description": "Floor location",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "funpctgood": {
+            "description": "Fun pct good",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "yrgarblt": {
+            "description": "Year garage was built",
+            "update_date": "01/01/2000",
+            "value": "1905"
+          },
+          "garcap": {
+            "description": "Garage capacity",
+            "update_date": "01/01/2000",
+            "value": "2"
+          },
+          "garsize": {
+            "description": "Size of garage (sq ft)",
+            "update_date": "01/01/2000",
+            "value": "360"
+          },
+          "gartype": {
+            "description": "Type of garage",
+            "update_date": "01/01/2000",
+            "value": "Detached"
+          },
+          "halfbath": {
+            "description": "Number of half bathrooms",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "linkid": {
+            "description": "Link id",
+            "update_date": "01/01/2000",
+            "value": "7215015"
+          },
+          "liva1st": {
+            "description": "Living area on first floor (sq ft)",
+            "update_date": "01/01/2000",
+            "value": "812"
+          },
+          "liva2nd": {
+            "description": "Living area on second floor (sq ft)",
+            "update_date": "01/01/2000",
+            "value": "856"
+          },
+          "livabase": {
+            "description": "Living area basement (finshd sq ft)",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "livatot": {
+            "description": "Total living area",
+            "update_date": "01/01/2000",
+            "value": "1668"
+          },
+          "livaupp": {
+            "description": "Living area on upper floor (sq ft)",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "override": {
+            "description": "Override value",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "pctcompl": {
+            "description": "Percent complete",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "phypctgood": {
+            "description": "Physical pct good",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "plumbfix": {
+            "description": "Number of plumbing fixtures",
+            "update_date": "01/01/2000",
+            "value": "5"
+          },
+          "rcn": {
+            "description": "RCN",
+            "update_date": "01/01/2000",
+            "value": "155264"
+          },
+          "rcnld": {
+            "description": "RCNLD",
+            "update_date": "01/01/2000",
+            "value": "77632"
+          },
+          "resbldgid": {
+            "description": "Resid bldg id",
+            "update_date": "01/01/2000",
+            "value": "0"
+          },
+          "rooms": {
+            "description": "Number of rooms",
+            "update_date": "01/01/2000",
+            "value": "7"
+          },
+          "rnumstor": {
+            "description": "Number of stories",
+            "update_date": "01/01/2000",
+            "value": "2"
+          },
+          "style": {
+            "description": "Style",
+            "update_date": "01/01/2000",
+            "value": "Colonial"
+          },
+          "whsid": {
+            "description": "WHS id",
+            "update_date": "01/01/2000",
+            "value": "4706386"
+          },
+          "downloaddt": {
+            "description": "Download date",
+            "update_date": "01/01/2000",
+            "value": "01/19/2011"
+          },
+          "parcel": {
+            "description": "Parcel",
+            "update_date": "01/01/2000",
+            "value": "672-06-054"
+          }
+        }
+      },
+      {
+        "sourcename": "RES2"
+      },
+      {
+        "sourcename": "RES3"
+      }
+    ]
+  }
+}
